@@ -25,5 +25,6 @@ ehthumbs.db
 Desktop.ini
 .DS_Store
 
-## User secrets
+## User secrets and environment-specific config
 **/appsettings.*.local.json
+**/appsettings.Development.json
